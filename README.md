@@ -29,3 +29,5 @@ ruby parser.rb -y 1871
 ```
 ruby parser.rb -y 1871 -t 'Troy Haymakers'
 ```
+
+![image](https://user-images.githubusercontent.com/12121497/121127385-f71cb480-c829-11eb-834f-6a18325ce967.png)
